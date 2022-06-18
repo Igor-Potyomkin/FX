@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+kafka:
+#  address: http://localhost:29092 localhost
+  address: http://kafka:9092
+  topic: price-handler
